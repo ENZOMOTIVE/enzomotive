@@ -1,24 +1,28 @@
 
 
 <h1 align="center"> 🍁 My Skill stack :</h1>
-<h2 align="center"> Blockchain</h2>
+<h2 align="center">Blockchain</h2>
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/solidity-1.png?raw=true" target="_blank">
+    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/solidity-1.png?raw=true" alt="Solidity" height="50" />
+  </a>
+  <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/hardhat-logo.jpg?raw=true" target="_blank">
+    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/hardhat-logo.jpg?raw=true" alt="Hardhat" height="50" />
+  </a>
+  <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/IPFS-logo.png?raw=true" target="_blank">
+    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/IPFS-logo.png?raw=true" alt="IPFS" height="50" />
+  </a>
+  <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ether.js-logo.png?raw=true" target="_blank">
+    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ether.js-logo.png?raw=true" alt="Ether.js" height="50" />
+  </a>
+  <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ganache-logo.png?raw=true" target="_blank">
+    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ganache-logo.png?raw=true" alt="Ganache" height="50" />
+  </a>
+  <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/metamask-logo.png?raw=true" target="_blank">
+    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/metamask-logo.png?raw=true" alt="MetaMask" height="50" />
+  </a>
 </div>
+
 
 
 <h2 align="center"> Backend </h2>
