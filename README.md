@@ -2,26 +2,27 @@
 
 <h1 align="center"> 🍁 My Skill stack :</h1>
 <h2 align="center">Blockchain</h2>
-<div align="center">  
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">  
   <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/solidity-1.png?raw=true" target="_blank">
-    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/solidity-1.png?raw=true" alt="Solidity" height="50" />
+    <img src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/solidity-1.png?raw=true" alt="Solidity" height="50" />
   </a>
   <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/hardhat-logo.jpg?raw=true" target="_blank">
-    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/hardhat-logo.jpg?raw=true" alt="Hardhat" height="50" />
+    <img src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/hardhat-logo.jpg?raw=true" alt="Hardhat" height="50" />
   </a>
   <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/IPFS-logo.png?raw=true" target="_blank">
-    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/IPFS-logo.png?raw=true" alt="IPFS" height="50" />
+    <img src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/IPFS-logo.png?raw=true" alt="IPFS" height="50" />
   </a>
   <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ether.js-logo.png?raw=true" target="_blank">
-    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ether.js-logo.png?raw=true" alt="Ether.js" height="50" />
+    <img src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ether.js-logo.png?raw=true" alt="Ether.js" height="50" />
   </a>
   <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ganache-logo.png?raw=true" target="_blank">
-    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ganache-logo.png?raw=true" alt="Ganache" height="50" />
+    <img src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/ganache-logo.png?raw=true" alt="Ganache" height="50" />
   </a>
   <a href="https://github.com/ENZOMOTIVE/enzomotive/blob/main/metamask-logo.png?raw=true" target="_blank">
-    <img style="margin: 10px" src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/metamask-logo.png?raw=true" alt="MetaMask" height="50" />
+    <img src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/metamask-logo.png?raw=true" alt="MetaMask" height="50" />
   </a>
 </div>
+
 
 
 
