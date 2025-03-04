@@ -46,9 +46,6 @@
   <img src="https://komarev.com/ghpvc/?username=ENZOMOTIVE&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ENZOMOTIVE&theme=nord&no-frame=true&margin-w=10&column=7" alt="trophy"/>
-</div>
 
 
 
