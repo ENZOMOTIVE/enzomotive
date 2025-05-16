@@ -19,6 +19,13 @@
   <a href="#"><img src="https://github.com/ENZOMOTIVE/enzomotive/blob/main/metamask-logo.png?raw=true" alt="MetaMask" height="50"/></a>
 </p>
 
+### 💻 Multiplatform Development (Android / IOS Development)
+- Kotlin
+- Swift
+- SwiftUI
+- Ktor
+- Coroutines
+
 ### 💻 Web Development
 <p align="center">
   <a href="#"><img src="https://sambitsargam.github.io/readme/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>&nbsp;&nbsp;
