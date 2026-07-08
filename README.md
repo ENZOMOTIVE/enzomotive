@@ -1,52 +1,64 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aayushman+Bhaba+Padhy;Blockchain+Developer;Full+Stack+Web+Developer;KOTLIN+MULTIPLATFORM;Always+learning+new+things" alt="Typing SVG" />
-</div>
+# Enzomotive
 
-<h1 align="center">Tech Stack</h1>
+## Project Tags
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="150" style="border: none;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://kotlinlang.org/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="60"/>
-        </a>
-        <div style="margin-top: 10px;">
-          <sub><b>Kotlin Multiplatform</b></sub>
-        </div>
-      </div>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://developer.android.com/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" height="60"/>
-        </a>
-        <div style="margin-top: 10px;">
-          <sub><b>Android</b></sub>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150" style="border: none;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://developer.apple.com/ios/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="iOS" height="60"/>
-        </a>
-        <div style="margin-top: 10px;">
-          <sub><b>iOS</b></sub>
-        </div>
-      </div>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="#">
-          <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Web Development" height="90"/>
-        </a>
-        <div style="margin-top: 10px;">
-          <sub><b>Web Development</b></sub>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+- No requested category tag currently applies.
+
+## Overview
+
+Enzomotive is a project repository with documented structure, setup, and maintenance notes.
+
+## Features
+
+- Clear repository structure ready for implementation and future expansion
+
+## Tech Stack
+
+- Stack is not declared yet
+
+## Project Structure
+
+- `README.md` - repository documentation and project notes
+
+## Getting Started
+
+### Prerequisites
+
+- Git
+
+### Setup and Run
+
+```bash
+git clone https://github.com/ENZOMOTIVE/enzomotive.git
+cd enzomotive
+```
+
+This repository currently contains documentation only. Add source files and update this section with the exact setup commands when implementation begins.
+
+## Commands
+
+- No automated command set is declared yet; document commands here as tooling is added.
+
+## Configuration
+
+- No required runtime configuration is documented yet. Add environment variables here when the project needs them.
+
+## Testing and Quality
+
+- No automated test workflow is declared yet; add tests and document the command here as the project matures.
+
+## Documentation Notes
+
+- Keep this README aligned with the actual source layout and commands.
+- Add screenshots, API examples, contract addresses, or deployment links when they become stable.
+- Update the project tags when the scope changes.
+
+## Contributing
+
+1. Create a focused branch for the change.
+2. Update code and documentation together.
+3. Run the relevant checks before opening a pull request.
+
+## License
+
+No license file is currently committed. Add one before distributing this project publicly.
