@@ -1,63 +1,56 @@
 # Enzomotive
 
-## Project Tags
+> Enzomotive is a project workspace with room for implementation notes, setup instructions, and future product direction.
 
-- No requested category tag currently applies.
+## The Story
 
-## Overview
+Enzomotive starts with a simple goal: give the project a clear home for context, setup notes, and the next useful improvement. The repository is intentionally compact today, so the README focuses on turning the current shape into a clear starting point for the next round of work.
 
-Enzomotive is a project repository with documented structure, setup, and maintenance notes.
+## What It Includes
 
-## Features
+- A compact project surface that can grow as implementation details are added.
 
-- Clear repository structure ready for implementation and future expansion
+## How It Is Put Together
 
-## Tech Stack
+| Path | Role |
+| --- | --- |
+| `README.md` | Project story and setup notes |
 
-- Stack is not declared yet
-
-## Project Structure
-
-- `README.md` - repository documentation and project notes
-
-## Getting Started
-
-### Prerequisites
-
-- Git
-
-### Setup and Run
+## Local Development
 
 ```bash
 git clone https://github.com/ENZOMOTIVE/enzomotive.git
 cd enzomotive
 ```
 
-This repository currently contains documentation only. Add source files and update this section with the exact setup commands when implementation begins.
+This repository is currently documentation-first. Add the source files first, then replace this section with the exact run commands.
 
-## Commands
+## Command Surface
 
-- No automated command set is declared yet; document commands here as tooling is added.
+The repository does not declare a shared command table yet. Use the local development notes above for the current workflow, then promote repeatable commands here as the project grows.
 
 ## Configuration
 
-- No required runtime configuration is documented yet. Add environment variables here when the project needs them.
+- No runtime secrets are required for the current files. Add an `.env.example` once local configuration becomes part of the project.
 
-## Testing and Quality
+## Quality Checks
 
-- No automated test workflow is declared yet; add tests and document the command here as the project matures.
+- Review changed files manually until automated tests or validation scripts are added.
 
-## Documentation Notes
+## Where To Take It Next
 
-- Keep this README aligned with the actual source layout and commands.
-- Add screenshots, API examples, contract addresses, or deployment links when they become stable.
-- Update the project tags when the scope changes.
+- Add a short example that shows the project doing its main job from start to finish.
+- Keep setup commands current whenever dependencies, scripts, or deployment targets change.
+- Record important product decisions here so the repository keeps its story as the code evolves.
 
-## Contributing
+## Project Metadata
 
-1. Create a focused branch for the change.
-2. Update code and documentation together.
-3. Run the relevant checks before opening a pull request.
+| Field | Details |
+| --- | --- |
+| Repository | `ENZOMOTIVE/enzomotive` |
+| Categories | `General` |
+| Primary stack | Not declared yet |
+
 
 ## License
 
